@@ -1,5 +1,3 @@
-Here’s the entire sample `README.md` written in Markdown:
-
 ```markdown
 # Certificate Generator
 
@@ -68,6 +66,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📧 Contact
 
 For questions or suggestions:
-- **Email**: aavash@example.com
-- **GitHub**: [github.com/aavash-dev](https://github.com/aavash-dev)
+- **Email**: devkotaaavash@example.com
+- **GitHub**: [github.com/aavash-devkota](https://github.com/aavash-devkota)
 ```
