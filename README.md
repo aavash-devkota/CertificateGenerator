@@ -1,3 +1,6 @@
+Here’s the entire sample `README.md` written in Markdown:
+
+```markdown
 # Certificate Generator
 
 Automate the creation of personalized certificates using Python. This tool reads participant names from an Excel file and generates certificates by overlaying the names onto a template image.
@@ -47,7 +50,7 @@ CertificateGenerator/
 
 Run the script:
 ```bash
-python3 generate_certificates.py
+python generate_certificates.py
 ```
 
 Certificates will be saved in the `certificates/` directory.
@@ -61,3 +64,10 @@ Certificates will be saved in the `certificates/` directory.
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 📧 Contact
+
+For questions or suggestions:
+- **Email**: aavash@example.com
+- **GitHub**: [github.com/aavash-dev](https://github.com/aavash-dev)
+```
